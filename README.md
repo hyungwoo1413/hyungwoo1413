@@ -15,8 +15,8 @@
     <!-- Develop -->
     <p><strong>Develop</strong></p>
     <div>
-     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-     <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="25">
+     <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=cplusplus&logoColor=white" height="40">
      <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
      <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> 
