@@ -1,3 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=speech&color=0:424242,100:939393&height=300&section=header&text=HYUNGWOO%20&fontSize=80&fontColor=e8f0fc"/>
+
+
 ## 👩‍💻 Profile 
 🙆‍♀️ Name: 이형우<br/>
 🖥️ Education<br/>
@@ -37,14 +40,10 @@
     
 
 ## 🗂️ Projects
-- 포켓몬 미니게임<br>
+포켓몬 미니게임<br>
 [<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="100">](https://github.com/hyungwoo1413/project_pkmbattle)
--
--
 
 ## 📖 Study
--
--
--
+SQLD
 
 
