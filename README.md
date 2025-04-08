@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=speech&color=0:424242,100:939393&height=300&section=header&text=HYUNGWOO%20&fontSize=80&fontColor=e8f0fc"/>
+<img src="https://capsule-render.vercel.app/api?type=speech&color=0:03f6e1,100:55f682&height=300&section=header&text=HYUNGWOO%20&fontSize=80&fontColor=ffffff"/>
 
 <img src="hw.png" width="150" style="float: right; margin-left: 20px;">
         
