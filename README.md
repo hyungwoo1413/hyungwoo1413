@@ -2,10 +2,10 @@
 <img src="https://capsule-render.vercel.app/api?type=speech&color=0:98f8fa,100:98fab5&height=300&section=header&text=HYUNGWOO%20&fontSize=80&fontColor=ffffff&animation=twinkling"/>
 
 <!-- 프사 -->
-<p align="right">
-  <img src="hw.png" width="100">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+[![HYUNGWOO's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyungwoo1413)](https://github.com/HYUNGWOO/github-readme-stats) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="hw.png" width="100">
         
 
 ## 👩‍💻 Profile 
@@ -13,8 +13,6 @@
 🖥️ Education<br/>
 📥 Email: <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
-## 🏆 GitHub Stat and Languages
-[![HYUNGWOO's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyungwoo1413)](https://github.com/HYUNGWOO/github-readme-stats)
 
 
 ## 🛠 Tech Stack 🛠
