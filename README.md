@@ -10,7 +10,7 @@
 
 
 
-## 🛠 Language & Tools
+## 🛠 Tech Stack 🛠
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Develop -->
     <p><strong>Develop</strong></p>
@@ -22,6 +22,7 @@
      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="30"> 
      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" height="30"> 
      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" height="30"> 
+     <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white" height="30">
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
@@ -31,7 +32,7 @@
     <!-- Server -->
     <p><strong>Server</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black">
+        <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white" height="30">
     </div>
     <p><strong>Tools</strong></p>
 <!--     <div>
