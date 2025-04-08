@@ -1,6 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=speech&color=0:03f6e1,100:55f682&height=300&section=header&text=HYUNGWOO%20&fontSize=80&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=speech&color=0:03f6e1,100:68f791&height=300&section=header&text=HYUNGWOO%20&fontSize=80&fontColor=ffffff"/>
 
-<img src="hw.png" width="150" style="float: right; margin-left: 20px;">
+<p align="right">
+  <img src="hw.png" width="100">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
         
 
 ## 👩‍💻 Profile 
