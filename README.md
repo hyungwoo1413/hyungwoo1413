@@ -1,5 +1,5 @@
 <!-- 말풍선 -->
-<img src="https://capsule-render.vercel.app/api?type=speech&color=0:03f6e1,100:68f791&height=300&section=header&text=HYUNGWOO%20&fontSize=80&fontColor=ffffff&animation=blinking"/>
+<img src="https://capsule-render.vercel.app/api?type=speech&color=0:03f6e1,100:68f791&height=300&section=header&text=HYUNGWOO%20&fontSize=80&fontColor=ffffff&animation=fadeIn"/>
 
 <!-- 프사 -->
 <p align="right">
