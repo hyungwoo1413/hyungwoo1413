@@ -9,11 +9,10 @@
 
    
 
-## Profile 🖐️
-⭐ 이형우(Lee Hyung Woo)<br><br>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30>
-<br>glhwguddn@gmail.com
-<br>
+## 🖐️ Profile
+#### ⭐ 이형우 (Lee Hyung Woo)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:glhwguddn@gmail.com)  
+✉️ glhwguddn@gmail.com
 
 
 ## Tech Stack ⚙️
@@ -40,20 +39,15 @@
 <br>
 
 
-## Projects 🗂️
-[포켓몬 미니게임]<br>
-<a href="https://github.com/hyungwoo1413/project_pkmbattle">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="100">
-</a>
-<br>
+## 🗂️ Projects
+#### 🎮 [포켓몬 미니게임](https://github.com/hyungwoo1413/project_pkmbattle)
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="100">
 
 
 ## Study 📖
-<a href="https://github.com/hyungwoo1413/SQLD.git">
-   [SQLD]
-</a>
-&nbsp; 5.31(토) &nbsp; 접수 4.28~5.2
-
+#### [SQLD](https://github.com/hyungwoo1413/SQLD.git)  📅 5.31(토) ｜ 접수: 4.28 ~ 5.2
+#### 
+#### 
 
 
 
