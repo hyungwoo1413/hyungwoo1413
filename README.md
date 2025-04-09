@@ -47,7 +47,9 @@
 
 ## 🗂️ Projects
 포켓몬 미니게임<br>
-[<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="100">](https://github.com/hyungwoo1413/project_pkmbattle)
+<a href="https://github.com/hyungwoo1413/project_pkmbattle" target="_blank">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="100">
+</a>
 
 
 
