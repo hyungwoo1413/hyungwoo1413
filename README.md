@@ -6,46 +6,38 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="hw.png" width="200">
+<br><br>
 
-   
-
-## Profile 🖐️
-#### ⭐ 이형우 (Lee Hyung Woo) 
-#### ✉️ glhwguddn@gmail.com
+## 🖐️ Profile
+#### &nbsp;&nbsp;&nbsp; ⭐ 이형우 (Lee Hyung Woo)
+#### &nbsp;&nbsp;&nbsp; ✉️ glhwguddn@gmail.com
 <br>
 
 
-## Tech Stack ⚙️
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- Develop -->
-    <div>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" height="30">
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30">
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="30">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30">
-    </div>
-    <br>
-    <div>
-        <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" height="30">
-        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="30">
-        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" height="30">
-    </div>
-    <br>
-    <div>
-        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" height="30">
-    </div>
-</div>
-<br>
+## ⚙️ Tech Stack
+&nbsp;&nbsp;&nbsp; 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+&nbsp;&nbsp;&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+
+&nbsp;&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+<br><br>
+
+## 🗂️ Projects
+#### &nbsp;&nbsp;&nbsp; 🎮 [포켓몬 미니게임](https://github.com/hyungwoo1413/project_pkmbattle)
+<a href="https://github.com/hyungwoo1413/project_pkmbattle"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="100"></a>
 
 
-## Projects 🗂️
-#### 🎮 [포켓몬 미니게임](https://github.com/hyungwoo1413/project_pkmbattle)
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="100">
-
-
-## Study 📖
-#### [SQLD](https://github.com/hyungwoo1413/SQLD.git)  📅 5.31(토) ｜ 접수: 4.28 ~ 5.2
+## 📖 Study
+#### &nbsp;&nbsp;&nbsp; [SQLD](https://github.com/hyungwoo1413/SQLD.git)  📅 5.31(토) ｜ 접수: 4.28 ~ 5.2
 #### 
 #### 
 
