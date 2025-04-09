@@ -9,7 +9,7 @@
 
    
 
-## 🖐️ Profile
+## Profile 🖐️
 #### ⭐ 이형우 (Lee Hyung Woo) 
 #### ✉️ glhwguddn@gmail.com
 <br>
@@ -39,7 +39,7 @@
 <br>
 
 
-## 🗂️ Projects
+## Projects 🗂️
 #### 🎮 [포켓몬 미니게임](https://github.com/hyungwoo1413/project_pkmbattle)
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="100">
 
