@@ -10,9 +10,8 @@
    
 
 ## 🖐️ Profile
-#### ⭐ 이형우 (Lee Hyung Woo)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:glhwguddn@gmail.com)  
-✉️ glhwguddn@gmail.com
+#### ⭐ 이형우 (Lee Hyung Woo) 
+#### ✉️ glhwguddn@gmail.com
 
 
 ## Tech Stack ⚙️
