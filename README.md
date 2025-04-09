@@ -8,13 +8,13 @@
 <img src="hw.png" width="200">
         
 
-## 👩‍💻 Profile 
-🙆‍♀️ <strong>이형우(Lee Hyung Woo)</strong><br><br>
+## 👋 Profile
+⭐ <strong>이형우(Lee Hyung Woo)</strong><br><br>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30>
 
 
 
-## 🛠 Tech Stack 🛠
+## ⚙️ Tech Stack
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Develop -->
     <div>
