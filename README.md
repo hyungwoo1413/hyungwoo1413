@@ -51,7 +51,7 @@
 <a href="https://github.com/hyungwoo1413/SQLD.git">
    [SQLD]
 </a>
-5.31(토)<br>접수 4.28~5.2
+&nbsp; 5.31(토) &nbsp; 접수 4.28~5.2
 
 
 
