@@ -41,15 +41,17 @@
 
 ## Projects 🗂️
 [포켓몬 미니게임]<br>
-<a href="https://github.com/hyungwoo1413/project_pkmbattle" target="_blank">
+<a href="https://github.com/hyungwoo1413/project_pkmbattle">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="100">
 </a>
 <br>
 
 
 ## Study 📖
-[SQLD] 5.31(토)<br>
-접수 4.28~5.2
+<a href="https://github.com/hyungwoo1413/SQLD.git">
+   [SQLD]
+</a>
+   5.31(토)<br>접수 4.28~5.2
 
 
 
