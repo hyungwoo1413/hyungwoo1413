@@ -9,13 +9,13 @@
 
    
 
-## 👋 Profile
+## Profile 👋
 ⭐ <strong>이형우(Lee Hyung Woo)</strong><br><br>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30>
 
 
 
-## ⚙️ Tech Stack
+## Tech Stack ⚙️
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Develop -->
     <div>
@@ -42,7 +42,7 @@
     
 
 
-## 🗂️ Projects
+## Projects 🗂️
 포켓몬 미니게임<br>
 <a href="https://github.com/hyungwoo1413/project_pkmbattle" target="_blank">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="100">
@@ -50,7 +50,7 @@
 
 
 
-## 📖 Study
+## Study 📖
 SQLD
 
 
