@@ -10,7 +10,7 @@
 
 ## 🖐️ Profile
 #### &nbsp;&nbsp;&nbsp; ⭐ 이형우 (Lee Hyung Woo)
-#### &nbsp;&nbsp;&nbsp; ✉️ guddn3412@gmail.com
+#### &nbsp;&nbsp;&nbsp; ✉️ `guddn3412@gmail.com`
 <br>
 
 
