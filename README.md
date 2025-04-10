@@ -1,11 +1,8 @@
 <!-- 말풍선 -->
-<img src="https://capsule-render.vercel.app/api?type=speech&color=0:98f8fa,100:98fab5&height=300&section=header&text=HYUNGWOO%20&fontSize=80&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=220&color=0:98f8fa,100:98fab5&text=HYUNGWOO&textBg=false&fontColor=ffffff&fontSize=60&fontAlign=50&animation=twinkling"/>
 
 <!-- 프사 -->
 [![HYUNGWOO's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyungwoo1413)](https://github.com/HYUNGWOO/github-readme-stats) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="hw.png" width="200">
 <br><br>
 
 ## 🖐️ Profile
