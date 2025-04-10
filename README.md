@@ -1,6 +1,6 @@
 <div align="center">
 <!-- 말풍선 -->
-&nbsp;<img src="https://capsule-render.vercel.app/api?type=soft&height=250&color=0:98f8fa,100:98fab5&text=HYUNGWOO&textBg=false&fontColor=ffffff&fontSize=50&fontAlign=50&animation=twinkling">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=250&color=0:98f8fa,100:98fab5&text=HYUNGWOO&textBg=false&fontColor=ffffff&fontSize=50&fontAlign=50&animation=twinkling">
 <br><br>
   
   <div>
@@ -9,11 +9,13 @@
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    &nbsp;
   </div>
   <div>
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+    &nbsp;
   </div>
 </div>
 <br><br>
