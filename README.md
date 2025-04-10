@@ -1,8 +1,7 @@
-<div align="center">
 <!-- 말풍선 -->
 <img src="https://capsule-render.vercel.app/api?type=soft&height=250&color=0:98f8fa,100:98fab5&text=HYUNGWOO&textBg=false&fontColor=ffffff&fontSize=50&fontAlign=50&animation=twinkling">
 <br>
-
+<div>
   <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
