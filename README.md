@@ -48,7 +48,16 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hyungwoo1413&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/hyungwoo1413"
-  width="600"
-  height="300"
+  width="500"
+  height="250"
 />
+</a>
+
+<a href="https://www.gitanimals.org/">
+  <img
+    src="https://render.gitanimals.org/guilds/712582211925217446/draw"
+    width="500"
+    height="250"
+    alt="gitanimals"
+  />
 </a>
